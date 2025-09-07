@@ -47,7 +47,3 @@ No installation is required — tools are browser-based:
 
 ---
 
-## Add this README to other places (backlink-friendly)
-
-You can use the markdown links above to add backlinks in blog posts, documentation, or social posts. Example snippet for a blog:
-
