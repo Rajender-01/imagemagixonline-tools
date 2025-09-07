@@ -14,15 +14,16 @@ ImageMagixOnline is an all-in-one suite of image utilities (50+ tools) — conve
 
 ## Quick Links (most used)
 
-- 📌 Homepage: `[ImageMagixOnline](https://www.imagemagixonline.com/)`
-- 🖼️ Image to PDF: `[Image to PDF](https://www.imagemagixonline.com/tools/image-to-pdf)`
-- 📄 PPT to PDF: `[PPT to PDF](https://www.imagemagixonline.com/tools/ppt-to-pdf)`
-- 🔁 Image Converter: `[Image Converter](https://www.imagemagixonline.com/tools/converter)`
-- 🧾 Image to Text (OCR): `[Image to Text (OCR)](https://www.imagemagixonline.com/tools/image-to-text)`
-- 🖌️ Background Remover: `[Background Remover](https://www.imagemagixonline.com/tools/background-remover)`
-- 🧰 Compressor: `[Compressor](https://www.imagemagixonline.com/tools/compressor)`
+- 📌 Homepage: [ImageMagixOnline](https://www.imagemagixonline.com/)
+- 🖼️ Image to PDF: [Image to PDF](https://www.imagemagixonline.com/tools/image-to-pdf)
+- 📄 PPT to PDF: [PPT to PDF](https://www.imagemagixonline.com/tools/ppt-to-pdf)
+- 🔁 Image Converter: [Image Converter](https://www.imagemagixonline.com/tools/converter)
+- 🧾 Image to Text (OCR): [Image to Text (OCR)](https://www.imagemagixonline.com/tools/image-to-text)
+- 🖌️ Background Remover: [Background Remover](https://www.imagemagixonline.com/tools/background-remover)
+- 🧰 Compressor: [Compressor](https://www.imagemagixonline.com/tools/compressor)
 
-> Explore all tools: `[Homepage](https://www.imagemagixonline.com/)`
+> Explore all tools: [Homepage](https://www.imagemagixonline.com/)
+
 
 ---
 
